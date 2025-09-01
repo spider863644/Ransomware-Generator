@@ -32,6 +32,16 @@ Use responsibly.
 ## Usage:
 ### 1. Clone the repo:
 ```
+   apt update
+   apt upgrade
+```
+```
+   apt install python3
+```
+```
+apt install git
+```
+```
    git clone https://github.com/spider863644/Ransomware-Generator.git
    cd Ransomware-Generator
 ```
@@ -40,7 +50,7 @@ Use responsibly.
    pip install -r requirements.txt
    ```
    ```
-   python ransomware_generator.py
+   python3 ransomware_generator.py
    ```
 
 ## Options available:
