@@ -89,7 +89,7 @@ Spider Anongreyhat
 - Uninstall option to remove generated ransomware and tool
 
 ## 📅 Coming Soon
-- **Next Major Release:** Programmers' Day, September 13, 2025
+- **Next Major Release:** International Hacker's Day, September 11, 2025
 
 License:
 This project is licensed for educational and research use only.
