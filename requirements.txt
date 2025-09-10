@@ -1,0 +1,4 @@
+colorama
+update-check
+customtkinter
+dnspython
